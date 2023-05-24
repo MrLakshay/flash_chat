@@ -1,16 +1,9 @@
-# flash_chat
+# Flash Chat
+This is a chating app.
 
-A new Flutter project.
+Made to implement animations.
 
-## Getting Started
+Here are the animations implemented.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screen](https://github.com/MrLakshay/flash_chat/blob/540f6492bed643ac9082be440d94b800dd74b848/Screens/ezgif.com-video-to-gif.gif)
+![Screen](https://github.com/MrLakshay/flash_chat/blob/911a495fc938bce9b2d9e9296a1d249d4f30f024/Screens/ezgif.com-video-to-gif%202.gif)
